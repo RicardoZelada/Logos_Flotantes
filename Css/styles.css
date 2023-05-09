@@ -31,6 +31,7 @@ section span:hover{
 }
 
 .container-logos{
+    margin-top: 30px;
     padding: 10px;
     width: 90%;
     /*background: goldenrod;*/
@@ -42,6 +43,7 @@ section span:hover{
     justify-content: center;
     flex-wrap: wrap;
     gap: 5px;
+    padding-top: 30px;
     width: 100%;
     /*background-color: brown;*/
 }
@@ -69,6 +71,12 @@ section span:hover{
 }
 
 @media(max-width:498px){
+    section span{
+        top:10px;
+    }
+    .container{
+        padding-top: 10px;
+    }
     .container div{
         width: 160px;
         display: flex;
