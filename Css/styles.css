@@ -84,6 +84,9 @@ section span:hover{
         align-items: center;
         padding: 7px;
     }
+    .container-logos{
+        margin-top: 10px;
+    }
     .container div img{
         width: 80%;
     };
