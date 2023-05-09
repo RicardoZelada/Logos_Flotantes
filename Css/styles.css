@@ -42,7 +42,6 @@ section span:hover{
     justify-content: center;
     flex-wrap: wrap;
     gap: 5px;
-    padding-top: 30px;
     width: 100%;
     /*background-color: brown;*/
 }
